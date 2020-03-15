@@ -1,0 +1,15 @@
+.main-container{
+    display: flex;
+    margin: 20px;
+    
+}
+.grand-info{
+    width: 20%;
+    padding: 20px;
+    border-right: 2px solid rgb(226, 216, 124);
+}
+.user-info{
+  
+padding: 10px;
+
+}
